@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Задание №1</title>
+    <link rel="stylesheet" href="CSS1.css">
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=XLgDx7f61WbOqBhtd2cFKF-PDt9dLiT90AqHblda0w1CrhUGk0rpCbZm1ynM6KU0VsE-A1gRCApzd9CCDlbOFIwd0aCpOvzo9V-XrJ4FZNE" charset="UTF-8"></script></head>
+<body>
+    <a href="task_main.html">Вернуться к списку заданий</a>
+    <h1>Это крупный заголовок</h1>  
+    <h3>Это самый мелкий заголовок</h3>
+    <h2>Это менее крупный заголовок</h2>
+    <ol>
+         <li>Это первый пункт списка</li>
+         <li>Это второй пункт списка</li>  
+         <li>Это третий пункт списка</li>
+         <li>Это четвёртый пункт списка</li>
+    </ol>
+<p><b>Это полужирный текст</b></p>
+<p><b><i>Это текст записан полужирным курсивом</i></b></p>
+<i>Этот текст записан курсивом</i>
+</body>
+</html>S
